@@ -24,7 +24,7 @@ import BellB from "./BellB.png"
 
 
 //}return NewComp1
-//export  Updatecomp
+//export  Updatecomp new change
 }
 
 export class NewComp extends React.Component{
